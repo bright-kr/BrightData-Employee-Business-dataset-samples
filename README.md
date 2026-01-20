@@ -1,98 +1,98 @@
-# Bright Data Employee Business Dataset Sample
+# Bright Data 직원 비즈니스 데이터셋 샘플
 
-<h2>A sample dataset of 2,519 records</h2>
+<h2>2,519개 레코드의 샘플 데이터셋</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.co.kr">
     <img src="https://github.com/luminati-io/BrightData-Employee-Business-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Bright Data Employee Business Dataset Sample** includes **2,519 records** and was extracted using the **Bright Data API**.
+이 **Bright Data 직원 비즈니스 데이터셋 샘플**에는 **2,519개 레코드**가 포함되어 있으며 **Bright Data API**를 사용하여 추출되었습니다.
 
-## Data Points
+## 데이터 포인트
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The URL of the dataset entry. |
-| `profile_url` | LinkedIn profile URL of the individual. |
-| `linkedin_num_id` | Unique numerical identifier for the LinkedIn profile. |
-| `avatar` | URL of the profile picture associated with the LinkedIn account. |
-| `profile_name` | Full name of the individual as listed on their LinkedIn profile. |
-| `certifications` | Details of certifications obtained by the individual. |
-| `profile_location` | Current location of the individual as per their LinkedIn profile. |
-| `profile_connections` | Approximate number of connections the individual has on LinkedIn. |
-| `profile_country_code` | ISO code representing the country of the individual's location. |
-| `profile_education_full` | Detailed education history of the individual. |
-| `profile_last_education` | Most recent educational qualification of the individual. |
-| `profile_experience_full` | Comprehensive work experience details of the individual. |
-| `profile_last_experience` | Most recent position and company of employment. |
-| `profile_followers` | Number of followers the individual has on LinkedIn. |
-| `profile_linkedin_id` | LinkedIn ID string of the individual. |
-| `profile_current_position` | Current job position of the individual. |
-| `profile_current_title` | Current job title held by the individual. |
-| `profile_activity` | Recent activities performed by the individual on LinkedIn. |
-| `profile_posts` | Posts made by the individual on LinkedIn. |
-| `profile_about` | Summary section of the individual's LinkedIn profile. |
-| `profile_courses` | Courses undertaken by the individual. |
-| `profile_volunteer_experience` | Volunteer work experience of the individual. |
-| `profile_languages` | Languages spoken by the individual. |
-| `profile_publications` | Publications authored by the individual. |
-| `profile_recommendations` | Recommendations received by or given by the individual. |
-| `profile_recommendations_count` | Total number of recommendations associated with the individual. |
-| `profile_organizations` | Organizations that the individual is or was a part of. |
-| `profile_projects` | Projects undertaken by the individual. |
-| `company_name` | Name of the company where the individual is currently or was previously employed. |
-| `company_id` | Unique identifier for the company within the dataset. |
-| `company_linkedin_url` | LinkedIn URL of the company. |
-| `company_size` | Size of the company by employee count. |
-| `company_country_code` | ISO code representing the country of the company's headquarters. |
-| `company_description` | Description of the company's business activities. |
-| `company_other_employees` | Number of other employees listed on LinkedIn from the same company. |
-| `employees_in_linkedin` | Total number of employees from the company listed on LinkedIn. |
-| `company_linkedin_followers` | Number of followers the company has on LinkedIn. |
-| `company_locations` | List of company office locations. |
-| `company_founded_year` | Year the company was founded. |
-| `company_headquarters` | Headquarters location of the company. |
-| `company_categories` | Industry categories the company operates in. |
-| `company_logo` | URL of the company's logo. |
-| `company_slogan` | Slogan or tagline used by the company. |
-| `company_specialties` | Specialties and areas of expertise of the company. |
-| `company_updates` | Recent updates or news about the company. |
-| `company_website` | Official website of the company. |
-| `company_type` | Type of company, e.g., public, private, non-profit. |
-| `company_clean_domain` | Clean domain name of the company's website. |
-| `company_revenue_usd` | Approximate revenue of the company in USD. |
-| `company_total_funding` | Total funding received by the company. |
-| `company_total_employees` | Total number of employees working at the company. |
-| `company_stock_symbol` | Stock market symbol of the company, if publicly traded. |
-| `company_is_non_profit` | Indicator if the company is a non-profit organization. |
-| `company_parent_company` | Name of the parent company, if applicable. |
-| `profile_bio_links` | Links included in the individual's profile biography section. |
+| `url` | 데이터셋 항목의 URL입니다. |
+| `profile_url` | 개인의 LinkedIn 프로필 URL입니다. |
+| `linkedin_num_id` | LinkedIn 프로필의 고유 숫자 식별자입니다. |
+| `avatar` | LinkedIn 계정과 연결된 프로필 사진의 URL입니다. |
+| `profile_name` | LinkedIn 프로필에 기재된 개인의 전체 이름입니다. |
+| `certifications` | 개인이 취득한 자격증의 상세 정보입니다. |
+| `profile_location` | LinkedIn 프로필 기준 개인의 현재 위치입니다. |
+| `profile_connections` | 개인이 LinkedIn에서 보유한 대략적인 연결 수입니다. |
+| `profile_country_code` | 개인 위치의 국가를 나타내는 ISO 코드입니다. |
+| `profile_education_full` | 개인의 상세한 학력 이력입니다. |
+| `profile_last_education` | 개인의 가장 최근 학력(교육 자격)입니다. |
+| `profile_experience_full` | 개인의 포괄적인 경력 상세 정보입니다. |
+| `profile_last_experience` | 가장 최근의 직책 및 고용 회사입니다. |
+| `profile_followers` | 개인이 LinkedIn에서 보유한 팔로워 수입니다. |
+| `profile_linkedin_id` | 개인의 LinkedIn ID 문자열입니다. |
+| `profile_current_position` | 개인의 현재 직무 포지션입니다. |
+| `profile_current_title` | 개인이 현재 보유한 직함입니다. |
+| `profile_activity` | 개인이 LinkedIn에서 수행한 최근 활동입니다. |
+| `profile_posts` | 개인이 LinkedIn에 게시한 게시물입니다. |
+| `profile_about` | 개인의 LinkedIn 프로필 요약 섹션입니다. |
+| `profile_courses` | 개인이 수강한 과정입니다. |
+| `profile_volunteer_experience` | 개인의 자원봉사 경력입니다. |
+| `profile_languages` | 개인이 구사하는 언어입니다. |
+| `profile_publications` | 개인이 저술한 출판물입니다. |
+| `profile_recommendations` | 개인이 받았거나 제공한 추천입니다. |
+| `profile_recommendations_count` | 개인과 관련된 추천의 총 개수입니다. |
+| `profile_organizations` | 개인이 소속되었거나 소속 중인 조직입니다. |
+| `profile_projects` | 개인이 수행한 프로젝트입니다. |
+| `company_name` | 개인이 현재 근무 중이거나 과거에 근무했던 회사의 이름입니다. |
+| `company_id` | 데이터셋 내 회사의 고유 식별자입니다. |
+| `company_linkedin_url` | 회사의 LinkedIn URL입니다. |
+| `company_size` | 직원 수 기준 회사 규모입니다. |
+| `company_country_code` | 회사 본사가 위치한 국가를 나타내는 ISO 코드입니다. |
+| `company_description` | 회사의 사업 활동에 대한 설명입니다. |
+| `company_other_employees` | 동일 회사 소속으로 LinkedIn에 등록된 기타 직원 수입니다. |
+| `employees_in_linkedin` | LinkedIn에 등록된 해당 회사 소속 직원의 총 수입니다. |
+| `company_linkedin_followers` | 회사가 LinkedIn에서 보유한 팔로워 수입니다. |
+| `company_locations` | 회사 오피스 위치 목록입니다. |
+| `company_founded_year` | 회사 설립 연도입니다. |
+| `company_headquarters` | 회사 본사 위치입니다. |
+| `company_categories` | 회사가 운영하는 산업 카테고리입니다. |
+| `company_logo` | 회사 로고의 URL입니다. |
+| `company_slogan` | 회사가 사용하는 슬로건 또는 태그라인입니다. |
+| `company_specialties` | 회사의 전문 분야 및 전문성 영역입니다. |
+| `company_updates` | 회사에 대한 최근 업데이트 또는 뉴스입니다. |
+| `company_website` | 회사 공식 웹사이트입니다. |
+| `company_type` | 회사 유형(예: 상장, 비상장, 비영리)입니다. |
+| `company_clean_domain` | 회사 웹사이트의 정제된 도메인명입니다. |
+| `company_revenue_usd` | USD 기준 회사의 대략적인 매출입니다. |
+| `company_total_funding` | 회사가 받은 총 투자금입니다. |
+| `company_total_employees` | 회사에서 근무하는 총 직원 수입니다. |
+| `company_stock_symbol` | 상장 기업인 경우 회사의 주식 심볼(티커)입니다. |
+| `company_is_non_profit` | 회사가 비영리 조직인지 여부를 나타내는 지표입니다. |
+| `company_parent_company` | 해당되는 경우 모회사 이름입니다. |
+| `profile_bio_links` | 개인 프로필 소개(바이오) 섹션에 포함된 링크입니다. |
 
 
-## Use Cases
+## 사용 사례
 
-### 1. Human Resources Analytics
-Enhance HR strategies by analyzing employee education, experience, and certifications to identify skill gaps and training needs.
+### 1. 인적자원 분석
+직원의 학력, 경력, 자격증을 분석하여 스킬 갭과 교육 수요를 파악함으로써 HR 전략을 강화합니다.
 
-### 2. Market Research
-Conduct market research by examining employee profiles across industries, helping businesses understand competitor dynamics and workforce distribution.
+### 2. 시장 조사
+산업 전반의 직원 프로필을 검토하여 시장 조사를 수행하고, 기업이 경쟁사 동향 및 인력 분포를 이해하는 데 도움을 제공합니다.
 
-### 3. Business Development
-Leverage comprehensive employee and company data to uncover partnership opportunities and strategize business expansion efforts.
+### 3. 비즈니스 개발
+포괄적인 직원 및 회사 데이터를 활용하여 파트너십 기회를 발굴하고 비즈니스 확장 노력을 전략적으로 수립합니다.
 
 
 
-## File Formats
+## 파일 형식
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+데이터셋은 여러 형식으로 제공됩니다:
+- **CSV** (이 샘플에 포함됨)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
 - **Parquet**
 - **Compressed (.gz)**
 
-## Delivery Options
+## 제공 옵션
 
 - **Email**
 - **API Download**
@@ -103,26 +103,26 @@ The dataset is available in multiple formats:
 - **Snowflake**
 - **SFTP**
 
-## Update Frequency
+## 업데이트 주기
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+데이터셋은 다양한 일정으로 업데이트할 수 있습니다:
+- **Once** (일회성 제공)
 - **Daily**
 - **Weekly**
 - **Monthly**
 - **Quarterly**
 - **Custom schedules**
 
-## Data Enrichment
+## 데이터 보강
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+특정 요구사항에 따라 추가 데이터 포인트로 데이터셋을 강화하실 수 있습니다. 맞춤형 보강 옵션은 문의해 주시기 바랍니다.
 
-**[Get the full Bright Data Employee Business dataset](https://brightdata.com/products/datasets/employee)**
+**[전체 Bright Data 직원 비즈니스 데이터셋 받기](https://brightdata.co.kr/products/datasets/employee)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## 연구자 및 NGOs를 위한 무료 액세스
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiative는 환경 및 사회적 목적을 위해 활동하는 학술 연구자, NGOs 및 NPOs에 **[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)** 및 **[즉시 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)**에 대한 무료 액세스를 제공합니다. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+[brightinitiative.com](https://brightinitiative.com)에서 무료 액세스를 신청하시기 바랍니다.
