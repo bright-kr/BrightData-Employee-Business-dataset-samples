@@ -3,7 +3,7 @@
 <h2>2,519개 레코드의 샘플 데이터셋</h2>
 
 <a href="https://brightdata.co.kr">
-    <img src="https://github.com/luminati-io/BrightData-Employee-Business-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-kr/BrightData-Employee-Business-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 이 **Bright Data 직원 비즈니스 데이터셋 샘플**에는 **2,519개 레코드**가 포함되어 있으며 **Bright Data API**를 사용하여 추출되었습니다.
